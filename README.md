@@ -1,5 +1,5 @@
 # CIS1051--Finalproject-Passwordinator
-#Final project for CIS 1051 with Professor Andrew Rosen
+# Final project for CIS 1051 with Professor Andrew Rosen
 
 ## Things I achieved
 I was successful in: 
@@ -27,7 +27,7 @@ The issue i have is that when I call the get() method for the entry widget insid
 -- I tried turning the button command function into something that simply "clicks" and increments a variable outside of the function, and then when that variable is incremented to one i tried calling the get() command.
 -- nothing I tried was beneficial, and I went through a LOT of stack overflow threads to find out where I went wrong. I still am not sure how I could change this to get it to work.
 
-##Things I learned 
+## Things I learned 
 -- I feel pretty competent with SQL commands now! which is why I chose this project specifically. 
 -- I learned tkinter and how to deal with new widgets (except for the button...  :/ )
 -- I learned more about object oriented programming through developing my GUI. 
