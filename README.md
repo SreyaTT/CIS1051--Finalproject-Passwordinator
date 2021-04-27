@@ -1,5 +1,5 @@
 # CIS1051--Finalproject-Passwordinator
-# Final project for CIS 1051 with Professor Andrew Rosen
+Final project for CIS 1051 with Professor Andrew Rosen
 
 ## Things I achieved
 I was successful in: 
